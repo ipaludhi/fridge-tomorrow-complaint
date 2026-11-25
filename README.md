@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/ipaludhi/fridge-tomorrow-complaint/rank.svg)](https://make.fun/bounty/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7)
 [![reward](https://make.fun/badge/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/ipaludhi/fridge-tomorrow-complaint/reward.svg)](https://make.fun/bounty/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7)
 
-One passive-aggressive note from a smart fridge: the salad promised for "tomorrow" has been in here since Monday, and Tomorrow just filed a complaint.
+A smart fridge keeps a log. At 2am its owner opened the door, stared into the light, and closed it again — and the fridge filed that under "cry for help".
 
 ## Run it
 
@@ -12,7 +12,7 @@ One passive-aggressive note from a smart fridge: the salad promised for "tomorro
 node main.ts
 ```
 
-Writes the note to `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output/entry.txt`).
+That writes the note to `$MAKEFUN_OUTPUT_DIR/entry.txt` (or `/output/entry.txt` by default).
 
 ---
 
